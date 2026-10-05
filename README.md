@@ -2,19 +2,19 @@
 
 ![Dashboard Preview](assets/zara-sales-dashboard.png)
 
-## 📌 Ringkasan Proyek
+## Ringkasan Proyek
 Proyek ini bertujuan untuk mengevaluasi performa penjualan produk Zara berdasarkan kategori (*Terms*), efektivitas promosi (*Promotion*), penempatan produk (*Product Position*), dan faktor musiman (*Seasonal*). Analisis dilakukan pada dataset berisi **253 transaksi** menggunakan **Microsoft Excel**.
 
 ---
 
-## 🎯 Analytical Objectives
+## Analytical Objectives
 - **Analisis Efektivitas Promosi:** Membandingkan kontribusi *revenue* dari produk promo vs non-promo untuk mengukur kekuatan harga normal (*organic demand*).
 - **Performa Kategori Produk:** Mengidentifikasi kategori produk yang menjadi penggerak utama (*key driver*) volume penjualan dan pendapatan.
 - **Analisis Pengaruh Musiman:** Menilai dampak faktor *seasonal* terhadap fluktuasi penjualan di tiap kategori untuk optimasi alokasi stok di masa depan.
 
 ---
 
-## 🛠️ Tools & Metodologi
+## Tools & Metodologi
 - **Software:** Microsoft Excel (Pivot Table, Pivot Chart, Dynamic Slicers, Data Formatting).
 - **Metodologi:** 
   - **PDCA Framework:** Pendekatan terstruktur dari perencanaan hingga usulan tindakan bisnis.
@@ -22,7 +22,7 @@ Proyek ini bertujuan untuk mengevaluasi performa penjualan produk Zara berdasark
 
 ---
 
-## 🔄 Alur Pengerjaan 
+## Alur Pengerjaan 
 
 ### 1. Perencanaan & Formulasi Masalah
 - Menentukan tujuan analisis berdasarkan tiga pilar utama: Efektivitas Promosi, Performa Kategori, dan Dampak Musiman.
@@ -48,11 +48,11 @@ Proyek ini bertujuan untuk mengevaluasi performa penjualan produk Zara berdasark
 
 ---
 
-## 🖥️ Fitur Dashboard Excel
+## Fitur Dashboard Excel
 Dashboard interaktif yang dibangun mencakup:
 1. **Dynamic Filter (Slicers):** Filter interaktif berdasarkan *Terms*, *Product Position*, *Promotion*, dan *Seasonal*.
 2. **Key Metrics (KPI Card):** Total Sales Value / Revenue sebesar **USD 9,890,115,360**.
-3. **Interactive Charts:** 
+3. **Interactive Charts** 
 
 ---
 
